@@ -19,6 +19,10 @@ function Navbar() {
             <Link to="/about">About</Link>
             </Menu.Item>
 
+            <Menu.Item key="/propspage">
+            <Link to="/propspage">Propspage</Link>
+            </Menu.Item>
+
         </Menu>
     </Header>
   )
