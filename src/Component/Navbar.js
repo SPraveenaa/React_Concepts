@@ -23,6 +23,14 @@ function Navbar() {
             <Link to="/propspage">Propspage</Link>
             </Menu.Item>
 
+            <Menu.Item key="/contextpage">
+            <Link to="/contextpage">Contextpage</Link>
+            </Menu.Item>
+
+            <Menu.Item key="/usermain">
+            <Link to="/usermain">Usermain</Link>
+            </Menu.Item>
+
         </Menu>
     </Header>
   )
